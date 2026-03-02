@@ -1,0 +1,32 @@
+[
+    {
+        "full_name": "Rapelli Sai Teja",
+        "email": "rapellisaiteja",
+        "phone": "8919363234",
+        "experience": "1.3",
+        "position": "AI Engineer",
+        "location": "Hyderabad",
+        "tech_stack": "AI,ML,DL,NLP, GEN-AI, Prompt Engineering",
+        "timestamp": "2026-03-02T09:26:33.843868"
+    },
+    {
+        "full_name": "Sai Teja",
+        "email": "rapellisaiteja999@gmail.com",
+        "phone": "8919363234",
+        "experience": "1",
+        "position": "Gen Ai Engineer",
+        "location": "Hyderabad",
+        "tech_stack": "ML,AI,NLP,Prompt Engineer",
+        "timestamp": "2026-03-02T09:32:47.771494"
+    },
+    {
+        "full_name": "Sai Teja",
+        "email": "rapellisaiteja999@gmail.com",
+        "phone": "8919363234",
+        "experience": "1",
+        "position": "GEN-AI Engineer",
+        "location": "hyderabad",
+        "tech_stack": "prompt engineer, ML, DL ,NLP",
+        "timestamp": "2026-03-02T09:44:56.904753"
+    }
+]
